@@ -1,0 +1,14 @@
+[
+    {
+        "key":  "name",
+        "type":  0
+    },
+    {
+        "key":  "email",
+        "type":  0
+    },
+    {
+        "key":  "description",
+        "type":  0
+    }
+]
