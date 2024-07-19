@@ -44,7 +44,7 @@
        - `https://www.googleapis.com/auth/admin.directory.user`
 
 ## Remarks
-- None.
+- None at this time.
 
 ## Introduction
 
